@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="LoginTest" parallel="tests" thread-count="2" preserve-order="true">
+
+	<test name="Test1 Testcase in firefox">
+		<parameter name="myBrowser" value="firefox" />
+		<classes>
+			<class name="test.Test1" />
+		</classes>
+	</test> <!-- Test -->
+
+	<test name="Test1 Testcase in chrome">
+		<parameter name="myBrowser" value="chrome" />
+		<classes>
+			<class name="test.Test1" />
+		</classes>
+	</test> <!-- Test -->
+
+
+	</suite>

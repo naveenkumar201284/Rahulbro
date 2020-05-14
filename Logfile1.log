@@ -1,0 +1,208 @@
+2020-01-23 22:23:51,374 - test.Test1 -INFO - This is a test. Don't worry.
+2020-01-23 22:23:51,374 [main] INFO test.Test1 - This is a test. Don't worry.
+2020-01-26 22:28:26,505 - test.Test1 -INFO - This is a test. Don't worry.
+2020-01-26 22:28:26,505 [main] INFO test.Test1 - This is a test. Don't worry.
+2020-02-15 21:04:21,246 - test.Test1 -INFO - This is a test. Don't worry.
+2020-02-15 21:04:21,246 [main] INFO test.Test1 - This is a test. Don't worry.
+2020-02-15 21:04:21,274 - screenshot.ScreenShot -INFO - 
+2020-02-15 21:04:21,274 [main] INFO screenshot.ScreenShot - null
+2020-02-15 21:05:50,633 - test.Test1 -INFO - This is a test. Don't worry.
+2020-02-15 21:05:50,633 [main] INFO test.Test1 - This is a test. Don't worry.
+2020-02-15 21:05:50,676 - screenshot.ScreenShot -INFO - 
+2020-02-15 21:05:50,676 [main] INFO screenshot.ScreenShot - null
+2020-02-15 21:09:48,847 - test.Test1 -INFO - This is a test. Don't worry.
+2020-02-15 21:09:48,847 [main] INFO test.Test1 - This is a test. Don't worry.
+2020-02-15 21:09:49,318 - screenshot.ScreenShot -INFO - Screenshot Taken
+2020-02-15 21:09:49,318 [main] INFO screenshot.ScreenShot - Screenshot Taken
+2020-02-15 21:16:13,503 - test.Test1 -INFO - This is a test. Don't worry.
+2020-02-15 21:16:13,503 [main] INFO test.Test1 - This is a test. Don't worry.
+2020-02-15 21:16:13,519 - screenshot.ScreenShot -INFO - 
+2020-02-15 21:16:13,519 [main] INFO screenshot.ScreenShot - null
+2020-02-15 21:18:32,856 - test.Test1 -INFO - This is a test. Don't worry.
+2020-02-15 21:18:32,856 [main] INFO test.Test1 - This is a test. Don't worry.
+2020-02-15 21:18:33,386 - screenshot.ScreenShot -INFO - Screenshot Taken
+2020-02-15 21:18:33,386 [main] INFO screenshot.ScreenShot - Screenshot Taken
+2020-02-16 22:27:10,029 - test.Test1 -INFO - This is a test. Don't worry.
+2020-02-16 22:27:10,029 [main] INFO test.Test1 - This is a test. Don't worry.
+2020-02-16 22:28:14,669 - test.Test1 -INFO - This is a test. Don't worry.
+2020-02-16 22:28:14,669 [main] INFO test.Test1 - This is a test. Don't worry.
+2020-02-16 22:28:18,639 - test.Test1 -INFO - admin
+2020-02-16 22:28:18,639 [main] INFO test.Test1 - admin
+2020-02-16 22:28:18,639 - test.Test1 -INFO - 1234
+2020-02-16 22:28:18,639 [main] INFO test.Test1 - 1234
+2020-02-16 22:28:19,419 - screenshot.ScreenShot -INFO - Screenshot Taken
+2020-02-16 22:28:19,419 [main] INFO screenshot.ScreenShot - Screenshot Taken
+2020-02-17 22:33:38,751 - test.Test1 -INFO - This is a test. Don't worry.
+2020-02-17 22:33:38,751 [main] INFO test.Test1 - This is a test. Don't worry.
+2020-02-17 22:33:42,250 - test.Test1 -INFO - admin
+2020-02-17 22:33:42,250 [main] INFO test.Test1 - admin
+2020-02-17 22:33:42,250 - test.Test1 -INFO - 1234
+2020-02-17 22:33:42,250 [main] INFO test.Test1 - 1234
+2020-02-17 22:33:43,144 - screenshot.ScreenShot -INFO - Screenshot Taken
+2020-02-17 22:33:43,144 [main] INFO screenshot.ScreenShot - Screenshot Taken
+2020-03-29 15:13:03,148 - test.Test1 -INFO - This is a test. Don't worry.
+2020-03-29 15:13:03,148 [main] INFO test.Test1 - This is a test. Don't worry.
+2020-03-29 15:13:03,856 - test.Test1 -INFO - admin
+2020-03-29 15:13:03,856 [main] INFO test.Test1 - admin
+2020-03-29 15:13:03,857 - test.Test1 -INFO - 1234
+2020-03-29 15:13:03,857 [main] INFO test.Test1 - 1234
+2020-03-29 15:13:04,247 - screenshot.ScreenShot -INFO - Screenshot Taken
+2020-03-29 15:13:04,247 [main] INFO screenshot.ScreenShot - Screenshot Taken
+2020-03-29 15:17:08,318 - test.Test1 -INFO - This is a test. Don't worry.
+2020-03-29 15:17:08,318 [main] INFO test.Test1 - This is a test. Don't worry.
+2020-03-29 15:17:08,857 - test.Test1 -INFO - admin
+2020-03-29 15:17:08,857 [main] INFO test.Test1 - admin
+2020-03-29 15:17:08,857 - test.Test1 -INFO - 1234
+2020-03-29 15:17:08,857 [main] INFO test.Test1 - 1234
+2020-03-29 15:17:09,755 - screenshot.ScreenShot -INFO - Screenshot Taken
+2020-03-29 15:17:09,755 [main] INFO screenshot.ScreenShot - Screenshot Taken
+2020-03-29 15:17:57,053 - test.Test1 -INFO - This is a test. Don't worry.
+2020-03-29 15:17:57,053 [main] INFO test.Test1 - This is a test. Don't worry.
+2020-03-29 15:17:57,558 - test.Test1 -INFO - admin
+2020-03-29 15:17:57,558 [main] INFO test.Test1 - admin
+2020-03-29 15:17:57,558 - test.Test1 -INFO - 1234
+2020-03-29 15:17:57,558 [main] INFO test.Test1 - 1234
+2020-03-29 15:17:57,891 - screenshot.ScreenShot -INFO - Screenshot Taken
+2020-03-29 15:17:57,891 [main] INFO screenshot.ScreenShot - Screenshot Taken
+2020-03-30 10:20:31,034 - test.Test1 -INFO - This is a test. Don't worry.
+2020-03-30 10:20:31,034 [main] INFO test.Test1 - This is a test. Don't worry.
+2020-03-30 10:20:31,704 - test.Test1 -INFO - admin
+2020-03-30 10:20:31,704 [main] INFO test.Test1 - admin
+2020-03-30 10:20:31,805 - test.Test1 -INFO - 1234
+2020-03-30 10:20:31,805 [main] INFO test.Test1 - 1234
+2020-03-30 10:20:32,115 - screenshot.ScreenShot -INFO - Screenshot Taken
+2020-03-30 10:20:32,115 [main] INFO screenshot.ScreenShot - Screenshot Taken
+2020-03-30 10:45:32,503 - test.Test1 -INFO - This is a test. Don't worry.
+2020-03-30 10:45:32,503 [main] INFO test.Test1 - This is a test. Don't worry.
+2020-03-30 10:45:33,094 - test.Test1 -INFO - admin
+2020-03-30 10:45:33,094 [main] INFO test.Test1 - admin
+2020-03-30 10:45:33,174 - test.Test1 -INFO - 1234
+2020-03-30 10:45:33,174 [main] INFO test.Test1 - 1234
+2020-03-30 10:45:33,973 - screenshot.ScreenShot -INFO - Screenshot Taken
+2020-03-30 10:45:33,973 [main] INFO screenshot.ScreenShot - Screenshot Taken
+2020-03-30 10:45:34,055 - test.Test1 -INFO - admin123
+2020-03-30 10:45:34,055 [main] INFO test.Test1 - admin123
+2020-03-30 10:45:34,127 - test.Test1 -INFO - 
+2020-03-30 10:45:34,127 [main] INFO test.Test1 - null
+2020-03-30 10:45:34,863 - screenshot.ScreenShot -INFO - Screenshot Taken
+2020-03-30 10:45:34,863 [main] INFO screenshot.ScreenShot - Screenshot Taken
+2020-03-30 10:54:03,385 - test.Test1 -INFO - This is a test. Don't worry.
+2020-03-30 10:54:03,385 [main] INFO test.Test1 - This is a test. Don't worry.
+2020-03-30 10:54:04,022 - test.Test1 -INFO - naveen20
+2020-03-30 10:54:04,022 [main] INFO test.Test1 - naveen20
+2020-03-30 10:54:04,106 - test.Test1 -INFO - 
+2020-03-30 10:54:04,106 [main] INFO test.Test1 - null
+2020-03-30 10:54:04,917 - screenshot.ScreenShot -INFO - Screenshot Taken
+2020-03-30 10:54:04,917 [main] INFO screenshot.ScreenShot - Screenshot Taken
+2020-03-30 10:54:04,996 - test.Test1 -INFO - naveen20
+2020-03-30 10:54:04,996 [main] INFO test.Test1 - naveen20
+2020-03-30 10:54:05,079 - test.Test1 -INFO - P61yamani
+2020-03-30 10:54:05,079 [main] INFO test.Test1 - P61yamani
+2020-03-30 10:54:05,899 - screenshot.ScreenShot -INFO - Screenshot Taken
+2020-03-30 10:54:05,899 [main] INFO screenshot.ScreenShot - Screenshot Taken
+2020-03-30 10:58:27,846 - test.Test1 -INFO - This is a test. Don't worry.
+2020-03-30 10:58:27,846 [main] INFO test.Test1 - This is a test. Don't worry.
+2020-03-30 11:40:15,748 - test.Test1 -INFO - This is a test. Don't worry.
+2020-03-30 11:40:15,748 [main] INFO test.Test1 - This is a test. Don't worry.
+2020-03-30 11:40:17,298 - test.Test1 -INFO - naveen20
+2020-03-30 11:40:17,298 [main] INFO test.Test1 - naveen20
+2020-03-30 11:40:17,429 - screenshot.ScreenShot -INFO - unexpected alert open: {Alert text : Username too short.  The username must be at least 4 characters in length.}
+  (Session info: chrome=80.0.3987.149): Username too short.  The username must be at least 4 characters in length.
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'PRO-5CG9503101', ip: '10.202.156.67', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614}), userDataDir=C:\Users\NAVEEN~1.KUM\AppData\Local\Temp\scoped_dir19112_471903787}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:56169}, acceptInsecureCerts=false, browserVersion=80.0.3987.149, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true}]
+Session ID: 1531805d0e019a609ace1b4608ecb5ec
+2020-03-30 11:40:17,429 [main] INFO screenshot.ScreenShot - unexpected alert open: {Alert text : Username too short.  The username must be at least 4 characters in length.}
+  (Session info: chrome=80.0.3987.149): Username too short.  The username must be at least 4 characters in length.
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'PRO-5CG9503101', ip: '10.202.156.67', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614}), userDataDir=C:\Users\NAVEEN~1.KUM\AppData\Local\Temp\scoped_dir19112_471903787}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:56169}, acceptInsecureCerts=false, browserVersion=80.0.3987.149, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true}]
+Session ID: 1531805d0e019a609ace1b4608ecb5ec
+2020-03-30 11:40:17,533 - test.Test1 -INFO - naveen20
+2020-03-30 11:40:17,533 [main] INFO test.Test1 - naveen20
+2020-03-30 11:40:17,630 - test.Test1 -INFO - P61yamani
+2020-03-30 11:40:17,630 [main] INFO test.Test1 - P61yamani
+2020-03-30 11:40:18,433 - screenshot.ScreenShot -INFO - Screenshot Taken
+2020-03-30 11:40:18,433 [main] INFO screenshot.ScreenShot - Screenshot Taken
+2020-03-30 12:28:55,838 - test.Test1 -INFO - This is a test. Don't worry.
+2020-03-30 12:28:55,838 [main] INFO test.Test1 - This is a test. Don't worry.
+2020-03-30 12:28:57,163 - test.Test1 -INFO - P61yamani
+2020-03-30 12:28:57,163 [main] INFO test.Test1 - P61yamani
+2020-03-30 12:28:57,314 - screenshot.ScreenShot -INFO - unexpected alert open: {Alert text : Username too short.  The username must be at least 4 characters in length.}
+  (Session info: chrome=80.0.3987.149): Username too short.  The username must be at least 4 characters in length.
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'PRO-5CG9503101', ip: '10.202.156.67', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614}), userDataDir=C:\Users\NAVEEN~1.KUM\AppData\Local\Temp\scoped_dir14772_2140860609}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:59108}, acceptInsecureCerts=false, browserVersion=80.0.3987.149, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true}]
+Session ID: 7e290b9eb5d75c7ca53bdd35afc5111c
+2020-03-30 12:28:57,314 [main] INFO screenshot.ScreenShot - unexpected alert open: {Alert text : Username too short.  The username must be at least 4 characters in length.}
+  (Session info: chrome=80.0.3987.149): Username too short.  The username must be at least 4 characters in length.
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'PRO-5CG9503101', ip: '10.202.156.67', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614}), userDataDir=C:\Users\NAVEEN~1.KUM\AppData\Local\Temp\scoped_dir14772_2140860609}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:59108}, acceptInsecureCerts=false, browserVersion=80.0.3987.149, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true}]
+Session ID: 7e290b9eb5d75c7ca53bdd35afc5111c
+2020-03-30 12:28:57,467 - test.Test1 -INFO - naveen20
+2020-03-30 12:28:57,467 [main] INFO test.Test1 - naveen20
+2020-03-30 12:28:57,649 - test.Test1 -INFO - P61yamani
+2020-03-30 12:28:57,649 [main] INFO test.Test1 - P61yamani
+2020-03-30 12:28:58,552 - screenshot.ScreenShot -INFO - Screenshot Taken
+2020-03-30 12:28:58,552 [main] INFO screenshot.ScreenShot - Screenshot Taken
+2020-03-30 12:32:37,170 - test.Test1 -INFO - This is a test. Don't worry.
+2020-03-30 12:32:37,170 [main] INFO test.Test1 - This is a test. Don't worry.
+2020-03-30 12:32:38,816 - test.Test1 -INFO - P61yamani
+2020-03-30 12:32:38,816 [main] INFO test.Test1 - P61yamani
+2020-03-30 12:33:11,769 - test.Test1 -INFO - This is a test. Don't worry.
+2020-03-30 12:33:11,769 [main] INFO test.Test1 - This is a test. Don't worry.
+2020-03-30 12:33:13,589 - test.Test1 -INFO - P61yamani
+2020-03-30 12:33:13,589 [main] INFO test.Test1 - P61yamani
+2020-03-30 12:33:44,252 - test.Test1 -INFO - This is a test. Don't worry.
+2020-03-30 12:33:44,252 [main] INFO test.Test1 - This is a test. Don't worry.
+2020-03-30 12:33:45,238 - test.Test1 -INFO - P61yamani
+2020-03-30 12:33:45,238 [main] INFO test.Test1 - P61yamani
+2020-03-30 12:33:53,087 - screenshot.ScreenShot -INFO - unexpected alert open: {Alert text : Username too short.  The username must be at least 4 characters in length.}
+  (Session info: chrome=80.0.3987.149): Username too short.  The username must be at least 4 characters in length.
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'PRO-5CG9503101', ip: '10.202.156.67', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614}), userDataDir=C:\Users\NAVEEN~1.KUM\AppData\Local\Temp\scoped_dir6520_1524708228}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:59223}, acceptInsecureCerts=false, browserVersion=80.0.3987.149, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true}]
+Session ID: e98ae882073f87612aa0ffca2d4c45ad
+2020-03-30 12:33:53,087 [main] INFO screenshot.ScreenShot - unexpected alert open: {Alert text : Username too short.  The username must be at least 4 characters in length.}
+  (Session info: chrome=80.0.3987.149): Username too short.  The username must be at least 4 characters in length.
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'PRO-5CG9503101', ip: '10.202.156.67', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614}), userDataDir=C:\Users\NAVEEN~1.KUM\AppData\Local\Temp\scoped_dir6520_1524708228}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:59223}, acceptInsecureCerts=false, browserVersion=80.0.3987.149, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true}]
+Session ID: e98ae882073f87612aa0ffca2d4c45ad
+2020-03-30 12:34:02,991 - test.Test1 -INFO - naveen20
+2020-03-30 12:34:02,991 [main] INFO test.Test1 - naveen20
+2020-03-30 12:34:07,479 - test.Test1 -INFO - P61yamani
+2020-03-30 12:34:07,479 [main] INFO test.Test1 - P61yamani
+2020-03-30 12:34:26,568 - screenshot.ScreenShot -INFO - Screenshot Taken
+2020-03-30 12:34:26,568 [main] INFO screenshot.ScreenShot - Screenshot Taken
+2020-03-30 13:45:58,140 - test.Test1 -INFO - This is a test. Don't worry.
+2020-03-30 13:45:58,140 [main] INFO test.Test1 - This is a test. Don't worry.
+2020-03-30 13:45:59,639 - test.Test1 -INFO - P61yamani
+2020-03-30 13:45:59,639 [main] INFO test.Test1 - P61yamani
+2020-03-30 13:45:59,792 - screenshot.ScreenShot -INFO - unexpected alert open: {Alert text : Username too short.  The username must be at least 4 characters in length.}
+  (Session info: chrome=80.0.3987.149): Username too short.  The username must be at least 4 characters in length.
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'PRO-5CG9503101', ip: '10.202.156.67', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614}), userDataDir=C:\Users\NAVEEN~1.KUM\AppData\Local\Temp\scoped_dir7708_1857805189}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:60046}, acceptInsecureCerts=false, browserVersion=80.0.3987.149, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true}]
+Session ID: 831a8708cbb9f4ecfa4ebbec7e164bbb
+2020-03-30 13:45:59,792 [main] INFO screenshot.ScreenShot - unexpected alert open: {Alert text : Username too short.  The username must be at least 4 characters in length.}
+  (Session info: chrome=80.0.3987.149): Username too short.  The username must be at least 4 characters in length.
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'PRO-5CG9503101', ip: '10.202.156.67', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614}), userDataDir=C:\Users\NAVEEN~1.KUM\AppData\Local\Temp\scoped_dir7708_1857805189}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:60046}, acceptInsecureCerts=false, browserVersion=80.0.3987.149, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true}]
+Session ID: 831a8708cbb9f4ecfa4ebbec7e164bbb
+2020-03-30 13:45:59,945 - test.Test1 -INFO - naveen20
+2020-03-30 13:45:59,945 [main] INFO test.Test1 - naveen20
+2020-03-30 13:46:00,078 - test.Test1 -INFO - P61yamani
+2020-03-30 13:46:00,078 [main] INFO test.Test1 - P61yamani
+2020-03-30 13:46:01,071 - screenshot.ScreenShot -INFO - Screenshot Taken
+2020-03-30 13:46:01,071 [main] INFO screenshot.ScreenShot - Screenshot Taken

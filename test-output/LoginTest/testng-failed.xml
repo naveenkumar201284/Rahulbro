@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [LoginTest]" parallel="tests">
+  <test name="Test1 Testcase in firefox(failed)" parallel="tests">
+    <parameter name="myBrowser" value="firefox"/>
+    <classes>
+      <class name="test.Test1">
+        <methods>
+          <include name="UpdatingData1"/>
+          <include name="getBrowser"/>
+          <include name="getBrowser"/>
+          <include name="cleanup"/>
+          <include name="cleanup"/>
+        </methods>
+      </class> <!-- test.Test1 -->
+    </classes>
+  </test> <!-- Test1 Testcase in firefox(failed) -->
+  <test name="Test1 Testcase in chrome(failed)" parallel="tests">
+    <parameter name="myBrowser" value="chrome"/>
+    <classes>
+      <class name="test.Test1">
+        <methods>
+          <include name="UpdatingData1"/>
+          <include name="getBrowser"/>
+          <include name="getBrowser"/>
+          <include name="cleanup"/>
+          <include name="cleanup"/>
+        </methods>
+      </class> <!-- test.Test1 -->
+    </classes>
+  </test> <!-- Test1 Testcase in chrome(failed) -->
+</suite> <!-- Failed suite [LoginTest] -->
