@@ -99,7 +99,7 @@ public class Test1 extends Utility{
 			driver.findElement(By.name(props.getProperty("Password"))).sendKeys(password);
 			log.info(password);
 			driver.findElement(By.name(props.getProperty("ClickOnLogin"))).click();
-						
+			Thread.sleep(5000);
 			util.setUp();
 			}
 		}
